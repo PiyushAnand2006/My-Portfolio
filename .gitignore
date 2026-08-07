@@ -1,0 +1,13 @@
+# Exclude all media & asset folders
+achievements/
+certificates/
+extra-image-college/
+profile picture/
+
+# Exclude media files
+*.jpeg
+*.jpg
+*.png
+*.pdf
+*.webp
+*.gif
